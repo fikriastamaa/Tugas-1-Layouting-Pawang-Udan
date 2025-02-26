@@ -8,3 +8,7 @@ Nama   : Fikri Astama Putra
 NIM    : 123220108
 Kelas  : IF - G
 
+## mantra mantra penyetting hujan
+- "pajulo julo mandiloko - Hujan Turun"
+- "suwung garing - Langit Cerah"
+- "mega gumulung - Badai Datang"
