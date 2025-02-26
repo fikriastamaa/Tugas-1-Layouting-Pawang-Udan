@@ -1,16 +1,10 @@
 # pawangudan
 
-A new Flutter project.
+Sebuah Aplikasi mahakarya sang pangeran Fikri Astama Putra NIM 123220108 IF - G
 
-## Getting Started
+## Dibuat oleh
 
-This project is a starting point for a Flutter application.
+Nama   : Fikri Astama Putra
+NIM    : 123220108
+Kelas  : IF - G
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
